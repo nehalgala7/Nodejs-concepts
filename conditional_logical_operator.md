@@ -54,7 +54,7 @@ If you are learning to code or new to coding, you will be using logical operator
 Logical operators are used with any primitive value or object. Its result will be based in whether the value is truthy or falsy:
 
 There are three logical operators in JavaScript: ! (NOT), && (AND), ||(OR) - represented with two vertical line symbols.
-1. ! - Logical NOT operator
+#### 1. ! - Logical NOT operator
 Using the ! operator in front of a value will convert it to a Boolean and return an opposite value. It means that a truthy value will return false, and a falsy will return true.
 
     ```
@@ -85,7 +85,29 @@ Using the ! operator in front of a value will convert it to a Boolean and return
     console.log(!false); //true
     console.log(!true); //false
 
-2. 
+#### 2. && (AND) Logical Operator
+
+The logical operator is used with two or more values (operands), and only evaluates to true if all the operands are truthy. The value returned will be the last truthy value if they are all true, but it will return the first falsy value if at least one value is false.
+
+
+```
+false && false // false
+false && true // false
+true && false // false
+true && true // true
+```
+
+Example 
+```
+const x = 7;
+const y = 4;
+
+(x < 10 && y > 1); // true 
+(x < 10 && y < 1); // false
+```
+
+#### 2. && (AND) Logical Operator
+
 
 #### what must you do
 - Read about [short circuiting in JS]
