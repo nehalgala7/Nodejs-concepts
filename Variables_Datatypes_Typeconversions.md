@@ -60,7 +60,7 @@ and one complex data type called object.
 
 
 #### what must you do
-- Detailed blogpost on [Type Conversions in JS](https://www.dyn-web.com/javascript/type/)
+- Go through this detailed blogpost on [Type Conversions in JS](https://www.dyn-web.com/javascript/type/)
 - Try to solve the excerices given in the following post [Examples of Type Conversions](https://javascript.info/type-conversions) and 
 
 
