@@ -41,7 +41,7 @@ The var_name is the name of the variable which should be defined by the user and
 #### what must you do
 
 - Read more about how to [create and initialize variables in javascript](https://www.w3schools.com/js/js_variables.asp)
-- Read about [different data types in javacsript](https://javascript.info/types) Deep dive into [Types & Data Structures Basics](https://codeburst.io/javascript-essentials-types-data-structures-3ac039f9877b).
+- Read about [different data types in javacsript](https://javascript.info/types) and also solve the excerises given there. Deep dive into [Types & Data Structures Basics](https://codeburst.io/javascript-essentials-types-data-structures-3ac039f9877b).
 - In this post, we will learn JavaScript’s variable scope and hoisting and all the idiosyncrasies of both.We must understand how variable scope and variable hoisting work in JavaScript, if want to understand JavaScript well. These concepts may seem straightforward; they are not. Some important subtleties exist that we must understand, if we want to thrive and excel as JavaScript developers. Read about [variable scope](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/).
 
 
