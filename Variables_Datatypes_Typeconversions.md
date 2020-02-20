@@ -3,12 +3,11 @@
 ## Overview
  
 In this Concept, we will help you understand about the basic building blocks of JavaScript i.e variables.
-State of a component is an object that holds some information that may change over the lifetime of the component.
 
- For example: In the 'My Burger' app, you may want to change the ingredients information depending upon the availability. 
+You'll be writing a program to find the largest and the smallest number from a list once we have covered all the topics under the section - Basic Javascript.
 
-After that, we will go through another important feature which sets React apart from other frameworks. This feature is called the Component lifecycle.
 
+For now, we expect that you'd be able to declare a variable and initialize it with one of the basic data type.
 
 
 ## Learning Outcome
