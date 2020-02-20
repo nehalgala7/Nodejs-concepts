@@ -82,6 +82,8 @@ JavaScript only supports three type of conversion
 2. to boolean
 3. to number
 
+You can read in depth about these three type of conversions here [types of conversions](https://www.oreilly.com/library/view/you-dont-know/9781491905159/ch04.html). It has plenty of examples to help to understand the concept thoroughly 
+
 
 #### what must you do
 - Go through this detailed blogpost on [Type Conversions in JS](https://www.dyn-web.com/javascript/type/)
