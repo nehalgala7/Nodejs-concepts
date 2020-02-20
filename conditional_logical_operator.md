@@ -51,8 +51,8 @@ Sometimes, we need to perform different actions based on different conditions. F
 
 
 #### what must you do
-
-- 
+- Read about [short circuiting in JS]
+- Read and solve problems in the [excerise](https://javascript.info/logical-operators)
 
 ## Additional Resources
 
