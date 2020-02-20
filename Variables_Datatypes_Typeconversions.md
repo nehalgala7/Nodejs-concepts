@@ -60,7 +60,7 @@ and one complex data type called object.
 
 ## Additional Resources
 
-- If you still feel confused by the lifecycle methods, read and and get a thorough understanding of [every lifecycle method in detail with an example](https://www.w3schools.com/react/react_lifecycle.asp)
+- This article gives an overview about about [Javacsript works](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf) 
 
 - Read the section titled **Common React Lifecycle Methods** in [this article](https://programmingwithmosh.com/javascript/react-lifecycle-methods/) to understand the lifecycle methods that are more commonly used over others.
 
