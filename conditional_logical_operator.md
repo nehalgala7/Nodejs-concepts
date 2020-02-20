@@ -106,8 +106,27 @@ const y = 4;
 (x < 10 && y < 1); // false
 ```
 
-#### 2. && (AND) Logical Operator
+#### 3. || (OR) Logical Operator
 
+The logical operator || (OR) also is used with two or more values, but it evaluates to true if any of the operands (values) are true, so only evaluates to false if both operands are falsy.
+
+```
+false && false // false
+false && true // true
+true && false // true
+true && true // true
+```
+
+Example - 
+```
+const x = 7;
+const y = 4;
+
+(x == 5 || y == 5); // false 
+(x == 7 || y == 0); // true
+(x == 0 || y == 4); // true
+(x == 7 || y == 4); // true
+```
 
 #### what must you do
 - Read about [short circuiting in JS]
