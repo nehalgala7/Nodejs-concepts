@@ -32,7 +32,7 @@ var x;
 
 The var_name is the name of the variable which should be defined by the user and should be unique. There are rules one must adhere to while defining a varaible. You can read more about it here  [Naming variable javascript](https://www.dummies.com/web-design-development/javascript/naming-javascript-variables/)
 
-![Variables](https://scotch-res.cloudinary.com/image/upload/dpr_2,w_800,q_auto:good,f_auto/media/8976/bNTL1QI3RFebh7C1JPYC_variable%20hoisting.png)
+![Variables](https://scotch-res.cloudinary.com/image/upload/dpr_2,w_800,q_auto:good,f_auto/media/8976/bNTL1QI3RFebh7C1JPYC_variable%20hoisting.png  =250x400)
 
 ### Data types 
 
@@ -95,5 +95,6 @@ You can read in depth about these three type of conversions here [types of conve
 - This article gives an overview about about [Javascript works](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf) and if you want to go a little deeper into [How JavaScript works differently in browser and node](https://itnext.io/how-javascript-works-in-browser-and-node-ab7d0d09ac2f)
 
 - This chapter discusses JavaScript's basic grammar, variable declarations, data types and literals. Dive deeper into the [JS Grammar](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_Types)
+
 
 
