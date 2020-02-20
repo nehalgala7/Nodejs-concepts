@@ -129,7 +129,7 @@ const y = 4;
 ```
 
 #### what must you do
-- Read about [short circuiting in JS]
+- The && and || operators are called short-circuit operators. They will return the value of the second operand based on the value of the first operand. Read about [short circuiting in JS](https://dev.to/akhil_001/short-circuit-evaluation-in-javascript-3o5a)
 - Read and solve problems in the [excerise](https://javascript.info/logical-operators)
 
 ## Additional Resources
