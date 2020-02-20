@@ -45,7 +45,6 @@ Sometimes, we need to perform different actions based on different conditions. F
 4. [Ternary operator](https://www.javascripttutorial.net/javascript-ternary-operator/)
 
 #### what must you do
-- 
 - Read and [Solve excerices related to conditional operators](https://javascript.info/ifelse#boolean-conversion)
 
 ### Logical Operators
@@ -53,10 +52,7 @@ Sometimes, we need to perform different actions based on different conditions. F
 
 #### what must you do
 
-- Read more about how to [create and initialize variables in javascript](https://www.w3schools.com/js/js_variables.asp)
-- Read about [different data types in javascript](https://javascript.info/types) and also solve the excerises given there. Deep dive into [Types & Data Structures Basics](https://codeburst.io/javascript-essentials-types-data-structures-3ac039f9877b).
-- In JavaScript variable have scope. Scoping is nothing but accessibility of a variable withing a program. Read [Scope of a variable](https://scotch.io/tutorials/understanding-scope-in-javascript).
-- In JavaScript, there is a concept of hoisting which is associated with scoping. Hoisting is the default behavior of moving all the declarations at the top of the scope before code execution. Basically, it gives us an advantage that no matter where functions and variables are declared, they are moved to the top of their scope regardless of whether their scope is global or local. Read in depth about [variable scope](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/).
+- 
 
 ## Additional Resources
 
