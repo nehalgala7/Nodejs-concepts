@@ -21,7 +21,7 @@ For now, after this concept you'd be able to declare a variable and initialize i
 
 ### Variables in JS
 
-The variable is one of the most fundamental concepts in any programming language. It is the basic unit of storage in a program. A variable is a way to store information so that you can later use it.]
+The variable is one of the most fundamental concepts in any programming language. It is the basic unit of storage in a program. A variable is a way to store information so that you can later use it.
 
 JavaScript variables were solely declared using the var keyword followed by the name of the variable and semi-colon. Below is the syntax to create variables in JavaScript:
 
@@ -34,36 +34,15 @@ The var_name is the name of the variable which should be defined by the user and
 
 ![Variables](https://scotch-res.cloudinary.com/image/upload/dpr_2,w_800,q_auto:good,f_auto/media/8976/bNTL1QI3RFebh7C1JPYC_variable%20hoisting.png)
 
-
-*Component Lifecycle*
-
-Each component in React has a lifecycle which we can monitor and manipulate during its different phases.
-
-The  phases are:  Initialization, Mounting, Updating and Unmounting
-
-Intitalisation: Defining defaults and initial values for states
-
-Mounting: Putting elements into the DOM
-
-Updating: Modify component's states
-
-Unmounting: Removing elements from the DOM
+### Data types 
 
 
-## What must you do?
 
+#### what must you do
 
--	Familiarise yourself with [what State is in ReactJS](https://www.w3schools.com/react/react_state.asp)
-
--	Next, Read and understand [how they have changed the component created earlier into a class-based component to accommodate state](https://reactjs.org/docs/state-and-lifecycle.html). Read the section up to ‘Adding Lifecycle Methods to a Class’.
-
--	After that, take a [look at graphical description of the component life-cycle and understand when each of the life-cycle methods are called](https://www.geeksforgeeks.org/reactjs-lifecycle-components/)
-
--	Once you complete reading the above article, check out the [list of lifecycle methods](https://reactjs.org/docs/react-component.html) there are in React. Pay close attention to the lifecycle methods which are now considered unsafe. 
-
-
--	Finally, go back to the second link [page](https://reactjs.org/docs/state-and-lifecycle.html) and continue reading from the ‘Adding Lifecycle Methods to a Class’ till the end. 
-Make an important note of the Using State Correctly section.
+- Read more about how to [create and initialize variables in javascript](https://www.w3schools.com/js/js_variables.asp)
+- Read about [different data types in javacsript](https://javascript.info/types) Deep dive into [Types & Data Structures Basics](https://codeburst.io/javascript-essentials-types-data-structures-3ac039f9877b).
+- In this post, we will learn JavaScript’s variable scope and hoisting and all the idiosyncrasies of both.We must understand how variable scope and variable hoisting work in JavaScript, if want to understand JavaScript well. These concepts may seem straightforward; they are not. Some important subtleties exist that we must understand, if we want to thrive and excel as JavaScript developers. Read about [variable scope](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/).
 
 
 
