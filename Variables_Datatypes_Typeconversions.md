@@ -1,9 +1,8 @@
 # Variables, Data types, Type conversions
 
 ## Overview
-
-In this topic, we will understand one of the most important part of the component called state.  
-
+ 
+In this Concept, we will help you understand about the basic building blocks of JavaScript i.e variables.
 State of a component is an object that holds some information that may change over the lifetime of the component.
 
  For example: In the 'My Burger' app, you may want to change the ingredients information depending upon the availability. 
@@ -14,10 +13,10 @@ After that, we will go through another important feature which sets React apart 
 
 ## Learning Outcome
 
-- What are varaibles?
+- What is a variable?
 - How to create a variable, store/modify value in a varaiable, and use it in the program?
 - What is a data type and what are the basic data types supported in Javascript?
-- When and how to use these different lifecycle methods of the component?
+- How type conversions work in javascript
 
 
 ## Introduction
