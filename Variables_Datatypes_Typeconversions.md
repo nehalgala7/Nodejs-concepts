@@ -36,7 +36,18 @@ The var_name is the name of the variable which should be defined by the user and
 
 ### Data types 
 
+Data type is nothing but type of information.
+JavaScript includes data types similar to other programming languages like Java or C#. Data type indicates characteristics of data. It tells the compiler whether the data value is numeric, alphabetic, date etc., so that it can perform the appropriate operation.
 
+JavaScript has six primitive data types:
+
+1. null
+2. undefined
+3. boolean
+4. number
+5. string
+6. symbol – available only from ES6
+and one complex data type called object.
 
 #### what must you do
 
