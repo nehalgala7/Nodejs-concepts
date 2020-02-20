@@ -14,8 +14,8 @@ After that, we will go through another important feature which sets React apart 
 
 ## Learning Outcome
 
-- What is the state of a component?
-- How to create the state and modify the state of a component?
+- What are varaibles?
+- How to create a variable, store/modify value in a varaiable, and use it in the program?
 - What are the different lifecycle methods of the component?
 - When and how to use these different lifecycle methods of the component?
 
