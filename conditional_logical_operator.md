@@ -49,6 +49,43 @@ Sometimes, we need to perform different actions based on different conditions. F
 
 ### Logical Operators
 
+If you are learning to code or new to coding, you will be using logical operators, these are typically used with Boolean values. But you need to pay close attention to it, since && and || operators will return the value of the specified operand, so if the operand is using a non-Booleans value, the return will be a non-Boolean value.
+
+Logical operators are used with any primitive value or object. Its result will be based in whether the value is truthy or falsy:
+
+There are three logical operators in JavaScript: ! (NOT), && (AND), ||(OR) - represented with two vertical line symbols.
+1. ! - Logical NOT operator
+Using the ! operator in front of a value will convert it to a Boolean and return an opposite value. It means that a truthy value will return false, and a falsy will return true.
+
+    ```
+    The following example shows how to use the logical NOT operator.
+    !a
+    ```
+
+    The logical NOT operator works based on the following rules:
+
+    If a is undefined, the result is true.
+    If a is null, the result is true.
+    If a is a number other than 0, the result is false.
+    If a is NaN, the result is true.
+    If a is null, the result is true.
+    If a is an object, the result is false.
+    If a is an empty string, the result is false. In case a is a non-empty string, the result is true.
+    If a is a Boolean value, it negates the value of a i.e., true becomes false and vice versa.
+
+    The following demonstrates the rules of the logical NOT operator:
+    console.log(!undefined); // true
+    console.log(!null); // true
+    console.log(!30); //false
+    console.log(!0); //true
+    console.log(!NaN); //true
+    console.log(!{}); // false
+    console.log(!''); //true
+    console.log(!'TRUE'); //false
+    console.log(!false); //true
+    console.log(!true); //false
+
+2. 
 
 #### what must you do
 - Read about [short circuiting in JS]
