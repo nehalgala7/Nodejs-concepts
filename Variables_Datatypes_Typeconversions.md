@@ -19,7 +19,7 @@ For now, after this concept you'd be able to declare a variable and initialize i
 
 ## Introduction
 
-*Variables*
+### Variables in JS
 
 The variable is one of the most fundamental concepts in any programming language. It is the basic unit of storage in a program. A variable is a way to store information so that you can later use it.]
 
