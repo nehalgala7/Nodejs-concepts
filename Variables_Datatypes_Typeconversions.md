@@ -60,7 +60,7 @@ and one complex data type called object.
 
 ## Additional Resources
 
-- This article gives an overview about about [Javacsript works](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf) 
+- This article gives an overview about about [Javascript works](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf) and if you want to go a little deeper into [How JavaScript works differently in browser and node](https://itnext.io/how-javascript-works-in-browser-and-node-ab7d0d09ac2f)
 
-- Read the section titled **Common React Lifecycle Methods** in [this article](https://programmingwithmosh.com/javascript/react-lifecycle-methods/) to understand the lifecycle methods that are more commonly used over others.
+- This chapter discusses JavaScript's basic grammar, variable declarations, data types and literals. Dive deeper into the [JS Grammar](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_Types)
 
