@@ -57,6 +57,13 @@ and one complex data type called object.
 - In JavaScript, there is a concept of hoisting which is associated with scoping. Hoisting is the default behavior of moving all the declarations at the top of the scope before code execution. Basically, it gives us an advantage that no matter where functions and variables are declared, they are moved to the top of their scope regardless of whether their scope is global or local. Read in depth about [variable scope](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/).
 
 ### Type conversions
+#### What is type conversion?
+Typecasting or coercion in simple term means to change the data type of a value to to another data type like for example, number to a string or a string to a boolean etc.
+
+
+JavaScript is loosely typed language and most of the time operators automatically convert a value to the right type but there are also cases when we need to explicitly do type conversions.
+
+There are two types of coercion, implicit and explicit. Implicit coercion is when there is automatic conversion of data type, where as When a developer expresses the intention to convert between types by writing the appropriate code, it’s called explicit type coercion (or type casting).
 
 
 #### what must you do
