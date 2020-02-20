@@ -65,6 +65,22 @@ JavaScript is loosely typed language and most of the time operators automaticall
 
 There are two types of coercion, implicit and explicit. Implicit coercion is when there is automatic conversion of data type, where as When a developer expresses the intention to convert between types by writing the appropriate code, it’s called explicit type coercion (or type casting).
 
+JavaScript only supports three type of conversion
+1. to string - We can explicitly convert values to a string using the String() method .
+   ```val = 5
+   String(val) //explicit coercion
+   ```
+   
+   Also JavaScript does a implicit string coercion when used with the + operator. The most trivial example would be            concatenation.
+   
+   ```
+   '10' + val //105 not 15 and o/p is a String, implicit coercion 
+   ```
+   Note: All other primitive values(string, number, boolean) are converted to string naturally
+   
+2. to boolean
+3. to number
+
 
 #### what must you do
 - Go through this detailed blogpost on [Type Conversions in JS](https://www.dyn-web.com/javascript/type/)
