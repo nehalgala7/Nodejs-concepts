@@ -10,8 +10,7 @@ In JavaScript, this condition can be any valid expression. Usually, this conditi
 
 A proper understanding of how the JavaScript engine converts these condition expressions to booleans is necessary for writing correct and predictable conditional logic.
 
-Identifying truthy and falsy values fundamental concept that can enable us to understand the conversions:
-Identifying truthy and falsy values in javascipt - 
+Identifying truthy and falsy values fundamental concept that can enable us to understand the conversions - 
 Every value in JavaScript can be classified as either truthy or falsy. The falsy values in JavaScript are as follows:
 
 ```
@@ -98,6 +97,5 @@ You can read in depth about these three type of conversions here [types of conve
 - This article gives an overview about about [Javascript works](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf) and if you want to go a little deeper into [How JavaScript works differently in browser and node](https://itnext.io/how-javascript-works-in-browser-and-node-ab7d0d09ac2f)
 
 - This chapter discusses JavaScript's basic grammar, variable declarations, data types and literals. Dive deeper into the [JS Grammar](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_Types)
-
 
 
