@@ -21,7 +21,16 @@ For now, after this concept you'd be able to declare a variable and initialize i
 
 *Variables*
 
-The variable is one of the most fundamental concepts in any programming language. It is the basic unit of storage in a program. 
+The variable is one of the most fundamental concepts in any programming language. It is the basic unit of storage in a program. A variable is a way to store information so that you can later use it.]
+
+JavaScript variables were solely declared using the var keyword followed by the name of the variable and semi-colon. Below is the syntax to create variables in JavaScript:
+
+```
+var var_name;
+var x;
+```
+
+The var_name is the name of the variable which should be defined by the user and should be unique. There are rules one must adhere to while defining a varaible. You can read more about it here
 
 ![Variables](https://scotch-res.cloudinary.com/image/upload/dpr_2,w_800,q_auto:good,f_auto/media/8976/bNTL1QI3RFebh7C1JPYC_variable%20hoisting.png)
 
