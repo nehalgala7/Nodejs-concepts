@@ -12,7 +12,7 @@ For now, after this concept you'd be able to declare a variable and initialize i
 ## Learning Outcome
 
 - What is a variable?
-- How to create a variable, store/modify value in a varaiable, and use it in the program?
+- How to create a variable, store, modify the value in a varaiable, and use it in a program?
 - What is a data type and what are the basic data types supported in Javascript?
 - How type conversions work in javascript
 
@@ -42,7 +42,8 @@ The var_name is the name of the variable which should be defined by the user and
 
 - Read more about how to [create and initialize variables in javascript](https://www.w3schools.com/js/js_variables.asp)
 - Read about [different data types in javascript](https://javascript.info/types) and also solve the excerises given there. Deep dive into [Types & Data Structures Basics](https://codeburst.io/javascript-essentials-types-data-structures-3ac039f9877b).
-- In this post, we will learn JavaScript’s variable scope and hoisting and all the idiosyncrasies of both.We must understand how variable scope and variable hoisting work in JavaScript, if want to understand JavaScript well. These concepts may seem straightforward; they are not. Some important subtleties exist that we must understand, if we want to thrive and excel as JavaScript developers. Read about [variable scope](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/).
+- In JavaScript variable have scope. Scoping is nothing but accessibility of a variable withing a program. Read [Scope of a variable](https://scotch.io/tutorials/understanding-scope-in-javascript).
+- In JavaScript, there is a concept of hoisting which is associated with scoping. Hoisting is the default behavior of moving all the declarations at the top of the scope before code execution. Basically, it gives us an advantage that no matter where functions and variables are declared, they are moved to the top of their scope regardless of whether their scope is global or local. Read in depth about [variable scope](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/).
 
 
 
