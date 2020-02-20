@@ -1,4 +1,4 @@
-# States & Component lifecycle
+# Variables, Data types, Type conversions
 
 ## Overview
 
