@@ -16,7 +16,7 @@ After that, we will go through another important feature which sets React apart 
 
 - What are varaibles?
 - How to create a variable, store/modify value in a varaiable, and use it in the program?
-- What are the different lifecycle methods of the component?
+- What is a data type and what are the basic data types supported in Javascript?
 - When and how to use these different lifecycle methods of the component?
 
 
