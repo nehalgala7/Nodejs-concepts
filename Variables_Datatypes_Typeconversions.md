@@ -6,8 +6,7 @@ In this Concept, we will help you understand about the basic building blocks of 
 
 You'll be writing a program to find the largest and the smallest number from a list once we have covered all the topics under the section - Basic Javascript.
 
-
-For now, we expect that you'd be able to declare a variable and initialize it with one of the basic data type.
+For now, after this concept you'd be able to declare a variable and initialize it with one of the basic data type.
 
 
 ## Learning Outcome
@@ -20,13 +19,11 @@ For now, we expect that you'd be able to declare a variable and initialize it wi
 
 ## Introduction
 
-*State*
+*Variables*
 
-React components have a built-in state object.
-The state object is where property values that belongs to the component is stored
+The variable is one of the most fundamental concepts in any programming language. It is the basic unit of storage in a program. 
 
-Whenever the state object changes, the component also re-renders.
-It is used to update the component in response to user actions(like clicking button, pressing some key, etc.),  network responses, and anything
+![Variables](https://scotch-res.cloudinary.com/image/upload/dpr_2,w_800,q_auto:good,f_auto/media/8976/bNTL1QI3RFebh7C1JPYC_variable%20hoisting.png)
 
 
 *Component Lifecycle*
