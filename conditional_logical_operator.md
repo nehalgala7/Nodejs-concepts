@@ -4,7 +4,7 @@
  
 Conditional and logical operators are used in decision-making statements, which determine the path of execution based on the condition specified as a combination of multiple Boolean expressions. 
 
-###Prerequisite
+### Prerequisite
 Learn about [Comparison operators in javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators)
 
 ## Learning Outcome
