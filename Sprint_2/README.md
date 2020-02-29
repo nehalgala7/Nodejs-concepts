@@ -58,6 +58,10 @@ You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-proje
     - Introduction to Express 
     - Setting Up our First Server
 	- Creating API's
+		- Handling HTTP GET Requests
+		- Handling HTTP POST Requests
+		- Handling HTTP PUT Requests
+		- Handling HTTP DELETE Requests
     - Handling Success & failure
 - Introduction to Datastores
 	- Introduction
