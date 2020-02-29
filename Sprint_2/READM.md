@@ -19,6 +19,7 @@ You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-proje
 - Scope
 - Closures
 - Hoisting
+- Event Loop
 - Promises
 - Async-Await
 
