@@ -10,7 +10,7 @@ Javascript is the only prerequisite to getting started with Node. The fundamenta
 You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-project/tree/master/FEWD/sprint_3) of our Front development program to revise the following basic and advanced Javascript concepts.
 
 - Variables, Data types
-- Type conversions 
+- [Type conversions](https://github.com/nehalgala7/Nodejs-concepts/blob/master/Variables_Datatypes_Typeconversions.md)
 - Loops
 - Conditionals, Logical operators
 - Arrays, objects
