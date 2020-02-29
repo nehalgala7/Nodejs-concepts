@@ -41,7 +41,9 @@ You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-proje
     - Set
 - Asynchronous JS
 	- Synchronous Vs. Asynchronous Code
-	- Callbacks and Callbacks hell
+	- Javascript aynsc patterns 
+	- Callbacks 
+	- Callbacks hell and how to avoid it
 - Introduction to APIs
     - Introduction
     - Basics of HTTP
