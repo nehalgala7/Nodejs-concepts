@@ -1,4 +1,4 @@
-## Sprint 2 - Getting started with Advanced Javascript, Modules, APIs, Datastores
+## Sprint 2 - Getting started with Advanced Javascript, Modules, APIs and Datastores
 
 ### Overview
 
