@@ -1,4 +1,4 @@
-## Sprint 1 - Getting started with Advanced Javascript, APIs, Datastores
+## Sprint 2 - Getting started with Advanced Javascript, APIs, Datastores
 
 ### Overview
 
@@ -10,15 +10,16 @@ Javascript is the only prerequisite to getting started with Node. The fundamenta
 You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-project/tree/master/FEWD/sprint_3) of our Front development program to revise the following basic and advanced Javascript concepts.
 
 - Variables, Data types
-- [Type conversions](https://github.com/nehalgala7/Nodejs-concepts/blob/master/Variables_Datatypes_Typeconversions.md)
+- [Type conversions](https://github.com/nehalgala7/Nodejs-concepts/blob/master/Sprint_2/Additional%20Resources/Variables_DataTypes_TypeConversions)
 - Arrays, objects
-- [Conditionals, Logical operators](https://github.com/nehalgala7/Nodejs-concepts/blob/master/conditional_logical_operator.md)
+- [Conditionals, Logical operators](https://github.com/nehalgala7/Nodejs-concepts/blob/master/Sprint_2/Additional%20Resources/Condtional_and_Logical_operators)
 - Control flow, Loops and error handling 
 - Functions, IIFE and  packages
 - OOPs
 - Scope
 - Closures
 - Hoisting
+- Event Loop
 - Promises
 - Async-Await
 
@@ -41,7 +42,7 @@ You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-proje
     - Set
 - Asynchronous JS
 	- Synchronous Vs. Asynchronous Code
-	- Javascript aynsc patterns 
+	- Call Stack, Callback Queue, and Event Loop
 	- Callbacks 
 	- Callbacks hell and how to avoid it
 - Introduction to APIs
@@ -49,7 +50,10 @@ You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-proje
     - Basics of HTTP
     - Basics of CRUD
     - URL, Query string, Query parameters
-    - Setting up a server
+    - Web servers 
+    - Introduction to Express 
+    - Setting Up our First Server
+    - 
     - Handling Success & failure
 - Introduction to Datastores
 	- Introduction
