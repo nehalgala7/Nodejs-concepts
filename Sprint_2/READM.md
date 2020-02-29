@@ -12,7 +12,7 @@ You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-proje
 - Variables, Data types
 - [Type conversions](https://github.com/nehalgala7/Nodejs-concepts/blob/master/Variables_Datatypes_Typeconversions.md)
 - Loops
-- Conditionals, Logical operators
+- [Conditionals, Logical operators](https://github.com/nehalgala7/Nodejs-concepts/blob/master/conditional_logical_operator.md)
 - Arrays, objects
 - Functions, IIFE and  packages
 - Scope
