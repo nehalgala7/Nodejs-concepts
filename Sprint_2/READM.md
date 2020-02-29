@@ -6,6 +6,7 @@ Gets you started with basic JS constructs and then later transitions you into ad
 API is the single most dominant way the world of Web communicates. This sprint gets you started with APIs and even takes you through journey of storing the data in data-stores.
 
 ### Concepts
+
 - Basic Javascript
     - Variables, Data types, Type conversions
     - Loops
