@@ -60,7 +60,7 @@ You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-proje
 	- Creating API's
 		- Handling HTTP GET Requests
 		- Calling APIs using Postman
-		- Handling HTTP POST Requests and input Validation
+		- Handling HTTP POST Requests and input validation
 		- Handling HTTP PUT Requests
 		- Handling HTTP DELETE Requests
     - Handling Success & failure
