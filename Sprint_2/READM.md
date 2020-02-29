@@ -40,6 +40,7 @@ You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-proje
     - Promises
     - Map
     - Set
+- Global Objects
 - Asynchronous JS
 	- Synchronous Vs. Asynchronous Code
 	- Call Stack, Callback Queue, and Event Loop
