@@ -42,7 +42,7 @@ You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-proje
     - Set
 - Asynchronous JS
 	- Synchronous Vs. Asynchronous Code
-	- Javascript aynsc patterns 
+	- Call Stack, Callback Queue, and Event Loop
 	- Callbacks 
 	- Callbacks hell and how to avoid it
 - Introduction to APIs
