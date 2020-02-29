@@ -46,6 +46,7 @@ You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-proje
 	- Callbacks hell and how to avoid it
 - Global Objects
 - Modules
+	- What are modules in Nodejs
 	- Creating a Module 
 	- Loading a Module
 - Introduction to APIs
