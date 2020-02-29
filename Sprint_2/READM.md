@@ -5,7 +5,7 @@
 Gets you started with basic JS constructs and then later transitions you into advanced mode. Also introduces you to ECMAScript standards and best practices.
 API is the single most dominant way the world of Web communicates. This sprint gets you started with APIs and even takes you through journey of storing the data in data-stores.
 
-###Concepts
+### Concepts
 - Basic Javascript
     - Variables, Data types, Type conversions
     - Loops
