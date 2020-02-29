@@ -53,7 +53,7 @@ You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-proje
     - Introduction
     - Basics of HTTP
     - Basics of CRUD
-    - URL, Query string, Query parameters
+    - URL, Route Parameters (Query string, Query parameters)
     - Web servers 
     - Introduction to Express 
     - Setting Up our First Server
