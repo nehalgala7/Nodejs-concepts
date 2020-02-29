@@ -57,8 +57,8 @@ You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-proje
 
 ### Learning Outcomes
     - Basic language constructs of Javascript, NodeJS
-    - Understanding of ECMAScript standards
-    - APIs with basic CRUD & implementation in NodeJS
+    - Understanding of ECMAScript 6 standards
+    - APIs with basic CRUD operations & implementation in NodeJS
     - Basics of data-stores with implementation in NodeJS
 
 ### What will you build?
