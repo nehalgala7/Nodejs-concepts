@@ -39,16 +39,16 @@ You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-proje
     - Promises
     - Map
     - Set
-- Asynchronous JS
-	- Synchronous Vs. Asynchronous Code
-	- Call Stack, Callback Queue, and Event Loop
-	- Callbacks 
-	- Callbacks hell and how to avoid it
 - Global Objects
 - Modules
 	- What are modules in Nodejs
 	- Creating a Module 
 	- Loading a Module
+- Asynchronous JS
+	- Synchronous Vs. Asynchronous Code
+	- Call Stack, Callback Queue, and Event Loop
+	- Callbacks 
+	- Callbacks hell and how to avoid it
 - Introduction to APIs
     - Introduction
     - Basics of HTTP
