@@ -50,7 +50,10 @@ You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-proje
     - Basics of HTTP
     - Basics of CRUD
     - URL, Query string, Query parameters
-    - Setting up a server
+    - Web servers 
+    - Introduction to Express 
+    - Setting Up our First Server
+    - 
     - Handling Success & failure
 - Introduction to Datastores
 	- Introduction
