@@ -15,6 +15,7 @@ You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-proje
 - [Conditionals, Logical operators](https://github.com/nehalgala7/Nodejs-concepts/blob/master/conditional_logical_operator.md)
 - Arrays, objects
 - Functions, IIFE and  packages
+- OOPs
 - Scope
 - Closures
 - Hoisting
@@ -22,12 +23,6 @@ You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-proje
 - Async-Await
 
 ### Concepts
-- Advanced Javascript
-    - Currying
-    - Memoization
-    - Apply, call, bind
-    - Polymorphism
-    - Async nature
 - ECMAScript 6 or ES6 
     - Scoping with const, let
     - Arrow functions
@@ -44,6 +39,9 @@ You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-proje
     - Promises
     - Map
     - Set
+- Asynchronous JS
+	- Synchronous Vs. Asynchronous Code
+	- Callbacks and Callbacks hell
 - Introduction to APIs
     - Introduction
     - Basics of HTTP
