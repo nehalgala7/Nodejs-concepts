@@ -39,12 +39,15 @@ You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-proje
     - Promises
     - Map
     - Set
-- Global Objects
 - Asynchronous JS
 	- Synchronous Vs. Asynchronous Code
 	- Call Stack, Callback Queue, and Event Loop
 	- Callbacks 
 	- Callbacks hell and how to avoid it
+- Global Objects
+- Modules
+	- Creating a Module 
+	- Loading a Module
 - Introduction to APIs
     - Introduction
     - Basics of HTTP
@@ -53,7 +56,7 @@ You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-proje
     - Web servers 
     - Introduction to Express 
     - Setting Up our First Server
-    - 
+	- Creating API's
     - Handling Success & failure
 - Introduction to Datastores
 	- Introduction
