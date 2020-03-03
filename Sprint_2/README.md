@@ -23,7 +23,7 @@ Basic and advanced Javascript:
 - Promises
 - Async-Await
 
-- ECMAScript 6 or ES6: 
+ECMAScript 6 or ES6: 
     - Scoping with const, let
     - Arrow functions
     - Default function params
