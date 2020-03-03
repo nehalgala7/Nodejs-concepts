@@ -16,11 +16,7 @@ This section introduces to the concept of global objects in Node js.
   
     - In a browser it is named window, for Node.js it is global, for other environments it may have another name.
     
-    
-    
-![](images/g.jpg)
-![](images/h.png)
-
+   
 ### What you must do
 - Go through the official Node.js webite which has [List of Node.js globals](https://nodejs.org/api/globals.html#globals_global_objects)
 - More information on [global objects](https://www.youtube.com/watch?v=jn8PZNBmKm0&t=7s)
