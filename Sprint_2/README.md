@@ -24,21 +24,21 @@ Basic and advanced Javascript:
 - Async-Await
 
 ECMAScript 6 or ES6: 
-    - Scoping with const, let
-    - Arrow functions
-    - Default function params
-    - Rest parameter
-    - Spread operator
-    - Object literals
-    - Loops
-    - Destructuring assignments
-    - Template literals
-    - Classes
-    - Symbol
-    - Iterators
-    - Promises
-    - Map
-    - Set
+- Scoping with const, let
+- Arrow functions
+- Default function params
+- Rest parameter
+- Spread operator
+- Object literals
+- Loops
+- Destructuring assignments
+- Template literals
+- Classes
+- Symbol
+- Iterators
+- Promises
+- Map
+- Set
 
 ### Concepts
 - Global Objects
