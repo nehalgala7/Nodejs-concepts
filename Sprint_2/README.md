@@ -73,7 +73,6 @@ You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-proje
 
 ### Learning Outcomes
 - Basic language constructs of Javascript and NodeJS
-- Understanding of ECMAScript 6 standards
 - Understanding of asynchronous javascript, global objects and modules
 - APIs with basic CRUD operations & implementation in NodeJS
 - Basics of data-stores with implementation in NodeJS
