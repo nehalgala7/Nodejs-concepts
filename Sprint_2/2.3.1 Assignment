@@ -1,0 +1,8 @@
+### Assignment on using external module in your application
+Here we will be using chalk npm module that is available 
+
+1. Find your module in https://www.npmjs.com/
+2. download adn install the external npm module "chalk" into your application
+3. Import this module in your index.js file.
+4. Using this module print "Hello world" in blue color
+
