@@ -48,8 +48,7 @@ You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-proje
 	- Loading a Module
 - Asynchronous JS
 	- Synchronous Vs. Asynchronous Code
-	- Call Stack, Callback Queue, and Event Loop
-	- Callbacks 
+	- Call Stack, Callback Queue, Event Loop and Callbacks 
 	- Callbacks hell and how to avoid it
 - Introduction to APIs
     - Introduction
