@@ -17,8 +17,6 @@ Admin will be able to do following
 - Delete/Remove an employee from the organisation
 
 Technical aspects: 
-- We will be validating employee email 
-
 Create the following endpoints to edit that user object as well as retrieve it:
 /employee/get: Will get all the employees
 /employee/get/{id} : Will get a employee by id
