@@ -53,14 +53,10 @@ You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-proje
 - Introduction to APIs
     - Introduction
     - Basics of HTTP
+	- REST and API Introduction
+	- URI and its components - URL, Route Parameters (Query string, path parameters)
     - Basics of CRUD
-    - URL, Route Parameters (Query string, Query parameters)
-    - Web servers 
-- Introduction to Datastores
-	- Introduction
-    - Connecting to the datastore
-    - Handling connection
-	- Bascis of CRUD
+    - What are Web servers 
 - Express	
     - Introduction to Express 
     - Setting Up our First Server
@@ -71,6 +67,9 @@ You can refer to [Sprint 3](https://github.com/greyatom-school/the-minerva-proje
 		- Handling HTTP PUT Requests
 		- Handling HTTP DELETE Requests
     - Handling Success & failure
+- Introduction to Datastores
+	- Introduction
+    - Connecting to a datastore and Handling connection
 
 ### Learning Outcomes
 - Basic language constructs of Javascript and NodeJS
