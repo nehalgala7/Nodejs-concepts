@@ -12,7 +12,6 @@ Admin will be able to do following
     - team
 
 - See the list of all the employees working in their organisation
-- search for a Employee by entering a query (Name, email, designation, team etc) . Display the resulting empoyees in a list on the page with all the corresponding data.
 - Update Employee details like phone, team, address etc
 - Delete/Remove an employee from the organisation
 
