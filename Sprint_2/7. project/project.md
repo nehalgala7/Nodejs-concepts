@@ -14,6 +14,7 @@ Admin will be able to do following using CURL or postman.
     - address
     - designation
     - team
+Note:  Email and mobile are compulsary fields.
 - See the list of all the employees working in their organisation
 - Search Employee by name and email.
 - Update Employee details like phone, team, address etc
@@ -36,5 +37,13 @@ We would be creating the following endpoints -
     - Output:
     ![](./images/5.png)
 - POST : /employees : Creates a employee
+    - This end point will validate the employee data and if the data is valid it will save the data in the database. 
+    - If the data is valid it will return the data that was created at the backend which contains the id of that record
+    - If the data is not valid it will send relevant HTTP status code along with the error message
+        - Output:
+    ![](./images/6.png)
+    ![](./images/7.png)
+    ![](./images/8.png)
+    ![](./images/9.png)
 - PUT: /employees/{id} : Updates a employee by id
 - DELETE: /employees/{id} : Removes a employee by ID
