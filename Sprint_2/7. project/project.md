@@ -38,12 +38,26 @@ We would be creating the following endpoints -
     ![](./images/5.png)
 - POST : /employees : Creates a employee
     - This end point will validate the employee data and if the data is valid it will save the data in the database. 
-    - If the data is valid it will return the data that was created at the backend which contains the id of that record
-    - If the data is not valid it will send relevant HTTP status code along with the error message
-        - Output:
+    - If the data is valid, it will return the data that was created at the backend which contains the id of that record
+    - If the data is not valid, it will send relevant HTTP status code along with the error message
+    - Output:
     ![](./images/6.png)
     ![](./images/7.png)
     ![](./images/8.png)
     ![](./images/9.png)
 - PUT: /employees/{id} : Updates a employee by id
+    - Example: /employees/2
+    - This end point will validate the employee data and if the data is valid, it will update the data in the database corresponding to that id.
+    - If the data is valid, it will return the updated data
+    - If the data is not valid, it will send relevant HTTP status code along with the error message
+    - Output:
+    ![](./images/10.png)
+    ![](./images/11.png)
+    ![](./images/12.png)
 - DELETE: /employees/{id} : Removes a employee by ID
+    - Example: /employees/2
+    - In the above example the API will delete the employee whose id is 2    
+    - Output:
+    ![](./images/14.png)
+    After the data is removed the new employees list
+    ![](./images/15.png)
