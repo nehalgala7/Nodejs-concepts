@@ -25,15 +25,16 @@ We would be creating the following endpoints -
     - This endpoint will fetch the employee list
     - Output:
     ![](./images/1.png)
-
+    - Futher we want to search the employee by email or name or both we will have to pass query params to this route.
+    - Output:
+    ![](./images/2.png)
+    ![](./images/3.png)
+    ![](./images/4.png)
 - GET: /employees/{id} : Will get a employee by id
     - Example - /employees/2
     - This API will get a employee by ID. In the above example the API will get the employee whose id is 2
     - Output:
-    ![](./images/1.png)
-- GET: /employees?name=name&email=email
-    - Example - /employees?name=test&email=a@b.com
-    - This API will search an whose email is test and email is a@b.com.
+    ![](./images/5.png)
 - POST : /employees : Creates a employee
 - PUT: /employees/{id} : Updates a employee by id
 - DELETE: /employees/{id} : Removes a employee by ID
