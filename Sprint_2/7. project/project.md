@@ -19,18 +19,21 @@ Admin will be able to do following using CURL or postman.
 - Update Employee details like phone, team, address etc
 - Delete/Remove an employee from the organisation
 
-API's that we would be building:
+API's that we would be building and output of the same:
 We would be creating the following endpoints -
-- GET: /employees/get: Will get all the employees
+- GET: /employees: Will get all the employees
     - This endpoint will fetch the employee list
+    - Output:
+    ![](./images/1.png)
+
 - GET: /employees/{id} : Will get a employee by id
-    - Example - /employees/1
-    - This API will get a employee by ID. In the above example the API will get the employee whose id is 1
+    - Example - /employees/2
+    - This API will get a employee by ID. In the above example the API will get the employee whose id is 2
+    - Output:
+    ![](./images/1.png)
 - GET: /employees?name=name&email=email
     - Example - /employees?name=test&email=a@b.com
     - This API will search an whose email is test and email is a@b.com.
 - POST : /employees : Creates a employee
 - PUT: /employees/{id} : Updates a employee by id
 - DELETE: /employees/{id} : Removes a employee by ID
-
-Output:
