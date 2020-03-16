@@ -5,8 +5,8 @@ Problem statement: Create an application that will allow the organisation admin 
 The purpose of this project to understand how to use global objects, modules, learn about HTTP and its methods, the basic contructs of backend programming like CRUD, REST and create REST API's using Express in Node.js.
 
 
-User story:
-Admin will be able to do following
+Specifications:
+Admin will be able to do following using CURL or postman.
 - Create a new Employee with the following details
     - Name
     - email
@@ -32,3 +32,5 @@ We would be creating the following endpoints -
 - POST : /employees : Creates a employee
 - PUT: /employees/{id} : Updates a employee by id
 - DELETE: /employees/{id} : Removes a employee by ID
+
+Output:
